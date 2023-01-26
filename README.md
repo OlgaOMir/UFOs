@@ -9,4 +9,5 @@ To perform a search, an end-user will need to input filter parameters into the f
 I would recommend:
 
     * to add a functionality to filter through comments
-    * to filter by the duration
+    
+    * to filter by the duration of the event
