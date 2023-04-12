@@ -6,8 +6,9 @@
 To perform a search, an end-user will need to input filter parameters into the filter boxes as a taxt. Once Enter key is pressed, the table with the data will only show the filtered results. 
 ![This is an image](https://github.com/OlgaOMir/UFOs/blob/main/filter.png)
 ## Summary:
-I would recommend:
+The tools used to create the website are: 
+* JavaScript version ES6
+* HTML
+* CSS
+* Bootstrap library
 
-    *  to add a functionality to filter through comments
-    
-    *  to filter by the duration of the event
